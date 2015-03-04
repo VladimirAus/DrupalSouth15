@@ -8,3 +8,7 @@ Code for presentations at DrupalSouth 15 (services, LMS)
 
 ### Prerequisites
 * Latest version of drush (version 7)
+
+### Pages of interest
+* One page view (http://ds15.drupal8.loc/admin/structure/views/view/project_lantern)
+* Custom menu rest exporter (http://ds15.drupal8.loc/admin/services/rest/resource/menu_link_content/edit)
