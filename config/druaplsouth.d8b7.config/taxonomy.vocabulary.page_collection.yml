@@ -1,0 +1,9 @@
+uuid: 0e8277cd-9d24-4cdf-8f00-d48c903bd707
+langcode: en
+status: true
+dependencies: {  }
+name: 'Page collection'
+vid: page_collection
+description: 'Collection of pages for one page display'
+hierarchy: 0
+weight: 0

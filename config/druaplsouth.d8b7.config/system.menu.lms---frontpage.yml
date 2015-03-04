@@ -1,0 +1,8 @@
+uuid: b95be78d-f8c3-4721-b706-6ba0de37cd2b
+langcode: en
+status: true
+dependencies: {  }
+id: lms---frontpage
+label: 'LMS - frontpage'
+description: 'Collection of pages for one page display'
+locked: false

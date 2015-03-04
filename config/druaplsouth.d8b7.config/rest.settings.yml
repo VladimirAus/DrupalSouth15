@@ -1,0 +1,45 @@
+resources:
+  'entity:node':
+    GET:
+      supported_formats:
+        - json
+      supported_auth:
+        - cookie
+    POST:
+      supported_formats:
+        - json
+      supported_auth:
+        - cookie
+    DELETE:
+      supported_formats:
+        - json
+      supported_auth:
+        - cookie
+    PATCH:
+      supported_formats:
+        - json
+      supported_auth:
+        - cookie
+  'entity:menu':
+    GET:
+      supported_formats:
+        - json
+      supported_auth:
+        - cookie
+    POST:
+      supported_formats:
+        - json
+      supported_auth:
+        - cookie
+  'entity:menu_link_content':
+    GET:
+      supported_formats:
+        - json
+      supported_auth:
+        - cookie
+  menu_link_content:
+    GET:
+      supported_formats:
+        - json
+      supported_auth:
+        - cookie
