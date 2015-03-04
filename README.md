@@ -5,3 +5,6 @@ Code for presentations at DrupalSouth 15 (services, LMS)
 * Configure variables in <code>bin/install.sh</code>
 * Run <code>bash -x bin/install.sh</code>
 * Enter sudo password
+
+### Prerequisites
+* Latest version of drush (version 7)
